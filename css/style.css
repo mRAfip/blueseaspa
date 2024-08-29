@@ -208,13 +208,13 @@ html * {
   width:60px;
   height:60px;
   bottom:40px;
-  left:30px;
-  background-color:#25d366;
+  
+
   color:#FFF;
   border-radius:50px;
   text-align:center;
   font-size:30px;
-  box-shadow: 2px 2px 3px #2a2a2a;
+ 
   z-index:100;
 }
 
@@ -222,8 +222,20 @@ html * {
   margin-top:16px;
 }
 
+.whatsapp{
+  left:30px;
+  background-color:#25d366;
+
+}
 
 
+/* btn call */
+
+.phone{
+
+  right:30px !important;
+  background-color:#313deb;
+}
 
 body {
   background: #faf8f5;
